@@ -1,4 +1,4 @@
-# 🚀 Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment
+# Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment
 ## ✍️ Introduction  
 In this guide, I’ll walk through exactly how I set up:
  - An AWS account (with billing tips)
